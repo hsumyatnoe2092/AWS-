@@ -197,7 +197,34 @@ window  = FSX
 | **m5.2xlarge** | 8        |
 | **m5.8xlarge** | 32       |
 -----------------------------
+### **EC2 Pricing Options – Titles Only**
 
+* On-Demand
+* Reserved
+* Savings Plans
+* Spot
+### **On-Demand Instances (English)**
+
+* Pay for compute capacity **per hour**
+* **No long-term commitments** required
+* **No upfront payments** needed
+* Can **easily scale capacity up or down** based on demand
+### **On-Demand Instances**
+
+- Pay for compute capacity **per hour**
+- **No long-term commitments** required
+- **No upfront payments** needed
+- Can **easily scale capacity up or down** based on demand
+
+---
+
+### **Reserved Instances**
+
+- Get **significant discount** compared to On-Demand
+- **Pre-pay** for capacity
+- Types: **Standard RI, Convertible RI, Scheduled RI**
+- Payment options: **No Upfront, Partial Upfront, All Upfront**
+- Can be **shared between multiple accounts** in the same billing family
 
 
 
