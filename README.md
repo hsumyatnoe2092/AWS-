@@ -1,7 +1,3 @@
-Sure! Here's a **one-page, ultra-condensed AWS cheat sheet** for **EC2, Storage, Pricing, Placement, and Lightsail**:
-
----
-
 ## **Amazon EC2**
 
 * **Virtual Server**: Scalable, pay-as-you-go.
